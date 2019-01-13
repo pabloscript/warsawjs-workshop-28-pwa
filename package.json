@@ -1,0 +1,28 @@
+{
+  "name": "warsawjs-workshop-28-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloscript/warsawjs-workshop-28-pwa.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Pawel Kozicki",
+    "email": "pe.kozicki@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabloscript/warsawjs-workshop-28-pwa/issues"
+  },
+  "homepage": "https://github.com/pabloscript/warsawjs-workshop-28-pwa#readme",
+  "dependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
